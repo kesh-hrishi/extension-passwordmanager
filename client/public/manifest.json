@@ -1,0 +1,17 @@
+{
+  "name": "Password Manager",
+  "description": "A easy to use personal password manager",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Password Manager",
+    "default_popup": "index.html",
+    "default_icon":{
+      "16": "logo192.png",
+      "128": "logo192.png"
+    }
+  }
+
+  
+
+}
